@@ -3,7 +3,6 @@
 </script>
 
 <template>
- <el-button>hhhhh</el-button>
 </template>
 
 <style scoped>
