@@ -1,7 +1,5 @@
 <template>
-<div>
-  <HelloWorld>qww</HelloWorld>
-</div>
+
 </template>
 
 <script>
