@@ -31,8 +31,8 @@ export const data = {
         "details": "🚩支持主流消息队列"
       },
       {
-        "title": "MySQL",
-        "details": "💾支持MySQL数据库"
+        "title": "Mybatis-Plus",
+        "details": "💾支持MybatisPlus,抛去编写SQL的烦恼"
       },
       {
         "title": "JWT",
@@ -44,27 +44,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1647410279000,
+    "updatedTime": 1647419944000,
     "contributors": [
       {
         "name": "murphy",
         "email": "murphyqq1@gmail.com",
-        "commits": 3
+        "commits": 4
       }
     ]
   },
   "filePathRelative": "README.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

@@ -34,11 +34,11 @@ import {
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_MZ_ZOOM_OPTIONS();
 
-// node_modules/@vueuse/core/index.mjs
+// node_modules/@vuepress/theme-default/node_modules/@vueuse/core/index.mjs
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_MZ_ZOOM_OPTIONS();
 
-// node_modules/@vueuse/shared/index.mjs
+// node_modules/@vuepress/theme-default/node_modules/@vueuse/shared/index.mjs
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_MZ_ZOOM_OPTIONS();
 
@@ -64,7 +64,7 @@ function del(target, key) {
   delete target[key];
 }
 
-// node_modules/@vueuse/shared/index.mjs
+// node_modules/@vuepress/theme-default/node_modules/@vueuse/shared/index.mjs
 function and(...args) {
   return computed(() => args.every((i) => unref(i)));
 }
@@ -1217,7 +1217,7 @@ function whenever(source, cb, options) {
   }, options);
 }
 
-// node_modules/@vueuse/core/index.mjs
+// node_modules/@vuepress/theme-default/node_modules/@vueuse/core/index.mjs
 function asyncComputed(evaluationCallback, initialState2, optionsOrRef) {
   let options;
   if (isRef(optionsOrRef)) {
