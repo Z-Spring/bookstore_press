@@ -1,0 +1,28 @@
+.logo2{
+    text-align: center;
+    display: block;
+    height: 200px;
+    weight: 200px;
+    margin-top: 3rem;
+}
+.description2{
+    text-align: center;
+    font-size: large;
+}
+.title2{
+    text-align: center;
+    font-size: larger;
+}
+.quick-start{
+    background-color: rgb(62, 175, 124);
+    border: 1px solid #f5f5f5;
+    border-radius: 5px;
+    padding: 1.5rem 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    position: relative;
+    left: 40%;
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+}
