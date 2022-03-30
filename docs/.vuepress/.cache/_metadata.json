@@ -1,35 +1,35 @@
 {
-  "hash": "8c90b25e",
-  "browserHash": "08a17fb2",
+  "hash": "9986351d",
+  "browserHash": "78386b9d",
   "optimized": {
     "vue": {
-      "file": "C:/Users/Murphy/bookstore/bookstore_press/docs/.vuepress/.cache/vue.js",
-      "src": "C:/Users/Murphy/bookstore/bookstore_press/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "file": "C:/Users/Murphy/bookstore_press/docs/.vuepress/.cache/vue.js",
+      "src": "C:/Users/Murphy/bookstore_press/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
       "needsInterop": false
     },
     "vue-router": {
-      "file": "C:/Users/Murphy/bookstore/bookstore_press/docs/.vuepress/.cache/vue-router.js",
-      "src": "C:/Users/Murphy/bookstore/bookstore_press/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "C:/Users/Murphy/bookstore_press/docs/.vuepress/.cache/vue-router.js",
+      "src": "C:/Users/Murphy/bookstore_press/node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "needsInterop": false
     },
     "@vue/devtools-api": {
-      "file": "C:/Users/Murphy/bookstore/bookstore_press/docs/.vuepress/.cache/@vue_devtools-api.js",
-      "src": "C:/Users/Murphy/bookstore/bookstore_press/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "C:/Users/Murphy/bookstore_press/docs/.vuepress/.cache/@vue_devtools-api.js",
+      "src": "C:/Users/Murphy/bookstore_press/node_modules/@vue/devtools-api/lib/esm/index.js",
       "needsInterop": false
     },
     "@vueuse/core": {
-      "file": "C:/Users/Murphy/bookstore/bookstore_press/docs/.vuepress/.cache/@vueuse_core.js",
-      "src": "C:/Users/Murphy/bookstore/bookstore_press/node_modules/@vuepress/theme-default/node_modules/@vueuse/core/index.mjs",
+      "file": "C:/Users/Murphy/bookstore_press/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "C:/Users/Murphy/bookstore_press/node_modules/@vuepress/theme-default/node_modules/@vueuse/core/index.mjs",
       "needsInterop": false
     },
     "nprogress": {
-      "file": "C:/Users/Murphy/bookstore/bookstore_press/docs/.vuepress/.cache/nprogress.js",
-      "src": "C:/Users/Murphy/bookstore/bookstore_press/node_modules/nprogress/nprogress.js",
+      "file": "C:/Users/Murphy/bookstore_press/docs/.vuepress/.cache/nprogress.js",
+      "src": "C:/Users/Murphy/bookstore_press/node_modules/nprogress/nprogress.js",
       "needsInterop": true
     },
     "@vuepress/shared": {
-      "file": "C:/Users/Murphy/bookstore/bookstore_press/docs/.vuepress/.cache/@vuepress_shared.js",
-      "src": "C:/Users/Murphy/bookstore/bookstore_press/node_modules/@vuepress/shared/lib/esm/index.js",
+      "file": "C:/Users/Murphy/bookstore_press/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "C:/Users/Murphy/bookstore_press/node_modules/@vuepress/shared/lib/esm/index.js",
       "needsInterop": false
     }
   }

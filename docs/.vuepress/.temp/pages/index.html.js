@@ -15,28 +15,28 @@ export const data = {
     ],
     "features": [
       {
-        "title": "Elasticsearch",
-        "details": "🌈支持Elasticsearch相关功能，图表化显示"
+        "title": "🌈Elasticsearch",
+        "details": "支持Elasticsearch相关功能，图表化显示"
       },
       {
-        "title": "Redis",
-        "details": "🚀支持Redis缓存，提高访问速度"
+        "title": "🚀Redis",
+        "details": "支持Redis缓存，提高访问速度"
       },
       {
-        "title": "Docker",
-        "details": "🐳支持Docker,一键化部署"
+        "title": "🐳Docker",
+        "details": "支持Docker,一键化部署"
       },
       {
-        "title": "RabbitMQ",
-        "details": "🚩支持主流消息队列"
+        "title": "🚩RabbitMQ",
+        "details": "支持主流消息队列"
       },
       {
-        "title": "Mybatis-Plus",
-        "details": "💾支持MybatisPlus,抛去编写SQL的烦恼"
+        "title": "💾Mybatis-Plus",
+        "details": "支持MybatisPlus,抛去编写SQL的烦恼"
       },
       {
-        "title": "JWT",
-        "details": "🐸支持JWT认证，安全性更高"
+        "title": "🐸JWT",
+        "details": "支持JWT认证，安全性更高"
       }
     ],
     "footer": "MIT Licensed | Copyright © 2022-murphy"
@@ -44,14 +44,27 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1647419944000,
+    "updatedTime": 1647533953000,
     "contributors": [
       {
         "name": "murphy",
         "email": "murphyqq1@gmail.com",
-        "commits": 4
+        "commits": 5
       }
     ]
   },
   "filePathRelative": "README.md"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }
